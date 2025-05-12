@@ -1,0 +1,8 @@
+gradio
+pip>=23.3.1  # 升级 pip 后，获取一个较新的版本，这里指定一个示例较新的版本号，你可以根据实际情况调整
+uv
+sglang[all]>=0.4.6.post2
+vllm
+pexpect
+autoawq
+colab-xterm
