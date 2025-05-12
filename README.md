@@ -1,5 +1,5 @@
-# LLM-One-Tap-Wizard
-
+# LLM-One-Tap-Wizard 
+[中文](README_ZH.md) [英文](README.md) 
 # 🔥 LLM One-Tap Wizard: Effortless Model Download, Deployment, Quantization & Chat Testing
 
 🎉 An ultra-convenient all-in-one tool for large language models! With just one click, you can download, deploy, quantize models, and even conduct chat tests immediately. Seamlessly compatible with Google Colab, enabling you to embark on your LLM exploration journey anytime, anywhere!
@@ -21,3 +21,4 @@
 3. Enter parameters in the corresponding tabs and click the buttons to complete operations effortlessly!
 
 Dive into the world of LLM wizardry and start your AI adventure now! 🚀
+![screenshoot.gif](screenshoot.gif)
